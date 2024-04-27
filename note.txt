@@ -1,0 +1,5 @@
+1.6
+Fixed some little bugs qb-target
+Fixed some little bugs q-target
+Fixed Remove Zones
+Fixed Add Zones
